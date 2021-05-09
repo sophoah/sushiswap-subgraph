@@ -21,7 +21,7 @@
   "devDependencies": {
     "@graphprotocol/graph-cli": "^0.20.0",
     "@graphprotocol/graph-ts": "^0.20.0",
-    "@sushiswap/core": "^1.4.2",
+    "openswap-core": "^0.7.7",
     "@typescript-eslint/eslint-plugin": "^4.0.0",
     "@typescript-eslint/parser": "^4.0.0",
     "eslint": "^7.0.0",
