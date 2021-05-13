@@ -27,7 +27,7 @@ dataSources:
 templates:
   - kind: ethereum/contract
     name: Pair
-    network: 10794229
+    network: mainnet
     source:
       abi: Pair
     mapping:

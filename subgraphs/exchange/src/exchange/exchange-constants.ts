@@ -22,7 +22,7 @@
     '0xdfe66b14d37c77f4e9b180ceb433d1b164f0281d', // stETH
     '0xad32a8e6220741182940c5abf610bde99e737b2d' // DOUGH
 ]*/
-/*
+
 export const BLACKLIST_EXCHANGE_VOLUME: string[] = [
   '0x9ea3b5b4ec044b70375236a281986106457b20ef' // DELTA
 ]
@@ -38,7 +38,7 @@ export const BLACKLIST_EXCHANGE_VOLUME: string[] = [
   '0x74b23882a30290451a17c44f4f05243b6b58c76d', // ETH
   '0x04068da6c83afcfa0e13ba15a6696662335d5b75', // USDC
 ]*/
-/*
+
 // Matic WHITELIST
 export const WHITELIST: string[] = [
   '0x7ceb23fd6bc0add59e62ac25578270cff1b9f619', // WETH
